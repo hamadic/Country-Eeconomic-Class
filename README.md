@@ -1,0 +1,2 @@
+# Country-Eeconomic-Class
+Classification algorithms were fit on Socio-Economic Dataset which was downloaded from the World Bank open database.The significance of this project that classification algorithm can be used to classify a county’s economic class which can help supra-national organizations such as the World Bank and the IMF in approving funding application as well as determining countries that are in a need for structural adjustment in order to improve this economic class. 
